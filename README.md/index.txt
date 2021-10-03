@@ -25,8 +25,8 @@ body {
 計算機圖學<br>
 110上學期<br>
 410814237 孫偉軒<br>
-聯絡信箱 請點選<a href="didi900115@gmail.com">
-<font color="lightblue">這裡</font></a>
+聯絡信箱 請點選<a href="mailto:didi900115@gmail.com">
+<font color="lightblue"><u>這裡</u></font></a>
 </div>
 
 <div id="hw">
