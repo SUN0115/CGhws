@@ -17,8 +17,8 @@
 110上學期<br>
 410814237 孫偉軒<br>
 聯絡信箱 請點選<a href="mailto:didi900115@gmail.com">
-<font color="lightblue"><u>這裡</u></font></a>
-我的gi-pages 請點選<a href="mailto:SUN01115.github.io/CGhws/index.html">
+<font color="lightblue"><u>這裡</u></font></a><br>
+我的gh-pages 請點選<a href="https://sun0115.github.io/CGhws/index.html">
 <font color="lightblue"><u>這裡</u></font></a>
 
 </div>
